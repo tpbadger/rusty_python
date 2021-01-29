@@ -8,5 +8,5 @@ projects where performance is a concern.
 
 | Language     | Fastest (ms) | Slowest (ms) |Mean (ms) | 
 | ----------- | ----------- | ------------| -------------|
-| Python      | 35.7       |    37.6         |   1.96     |
-| Rust backend   | 1.89       |     2.11        |  36.3  |
+| Python      | 35.7       |    37.6         |   36.3     |
+| Rust backend   | 1.89       |     2.11        |  1.96  |
